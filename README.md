@@ -108,5 +108,5 @@ curl http://localhost:5000
 ### Задача 6
 ![Задание 6](img/задание%206%20dive.jpg)
 ![Задание 6](img/6%20задание%20save.jpg)
-![Задание 6](img/извелечение%20terraform.jpg)
+![Задание 6](img/извелченеие%20terraform.jpg)
 ![Задание 6](img/6%20задание%20docker%20cp.jpg)
